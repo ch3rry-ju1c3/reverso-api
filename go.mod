@@ -1,5 +1,5 @@
-module github.com/kulishA/reverso-api
+module github.com/ch3rry-ju1c3/reverso-api
 
-go 1.18
+go 1.22
 
-require github.com/corpix/uarand v0.2.0 // indirect
+require github.com/corpix/uarand v0.2.0

@@ -2,7 +2,7 @@ package api
 
 import (
 	"encoding/json"
-	"github.com/kulishA/reverso-api"
+	//reverso_api "github.com/ch3rry-ju1c3/reverso-api"
 )
 
 type Translation struct {
